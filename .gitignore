@@ -1,0 +1,6 @@
+data/
+sopa/
+spatialdata-io/# pixi environments
+.pixi
+*.egg-info
+spatialdata-io/
